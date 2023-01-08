@@ -4,15 +4,27 @@
 
 
 <figure class="third">
-    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/1.png" styel="width:200px;border:1px #eee solid">
-    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/2.png" styel="width:200px;border:1px #eee solid">
-    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/3.png" styel="width:200px;border:1px #eee solid">
+    <kbd>
+    	<img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/1.png" width="200" >
+	</kbd>
+    <kbd>
+    	<img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/2.png" width="200" >
+	</kbd>
+    <kbd>
+    	<img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/3.png" width="200" >
+	</kbd>
 </figure>
 
 <figure class="third">
-    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/4.png" styel="width:200px;border:1px #eee solid">
-    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/5.png" styel="width:200px;border:1px #eee solid">
-    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/6.png" styel="width:200px;border:1px #eee solid">
+    <kbd>
+    	<img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/4.png" width="200" >
+	</kbd>
+    <kbd>
+    	<img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/5.png" width="200" >
+	</kbd>
+    <kbd>
+    	<img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/6.png" width="200" >
+	</kbd>
 </figure>
 
 
