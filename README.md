@@ -4,16 +4,18 @@
 
 
 <figure class="third">
-    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/1.png" width="200">
-    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/2.png" width="200">
-    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/3.png" width="200">
+    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/1.png" width="200" styel="border:1px #eee solid">
+    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/2.png" width="200" styel="border:1px #eee solid">
+    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/3.png" width="200" styel="border:1px #eee solid">
 </figure>
 
 <figure class="third">
-    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/4.png" width="200">
-    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/5.png" width="200">
-    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/6.png" width="200">
+    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/4.png" width="200" styel="border:1px #eee solid">
+    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/5.png" width="200" styel="border:1px #eee solid">
+    <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/img/6.png" width="200" styel="border:1px #eee solid">
 </figure>
+
+
 
 ### 集成
 * 登陆页面
@@ -21,6 +23,7 @@
 * 消息
 * 房间
 * 直播
+
 
 
 ### 开源说明
