@@ -1,7 +1,10 @@
 ## 口袋48 IOS 粉丝自制版
 
-### 预览
+### 统计
 
+![Alt](https://repobeats.axiom.co/api/embed/d39ee9bc6a91cdd83680108e4bf7dc9826150a87.svg "Repobeats analytics image")
+
+### 预览
 
 <div>
 	<h4>首页</h4>
