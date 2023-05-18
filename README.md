@@ -1,30 +1,42 @@
-## 口袋48 IOS 粉丝自制版
+## 口袋48 粉丝自制版
+
 
 
 ### 🧰 集成
-* 登陆页面
-* 首页
-* 消息
-* 房间
-* 我的
-* 直播
+- [x] 登陆
+- [x] 首页
+- [x] 消息
+- [x] 房间
+- [x] 我的
+- [x] 直播
+
+
 
 
 ### 👀 预览
 
-<div>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/1.png" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/2.png" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/3.png" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/4.png" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/5.png" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/6.png" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/7.png" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/8.png" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/9.png" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/10.png" width="200"></p>
-<div>
+预览             |  预览
+:-------------------------:|:-------------------------:
+<img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/1.png" width="200"> | <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/2.png" width="200">
 
+预览             |  预览
+:-------------------------:|:-------------------------:
+<img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/3.png" width="200"> | <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/4.png" width="200">
+
+
+预览             |  预览
+:-------------------------:|:-------------------------:
+<img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/5.png" width="200">  | <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/6.png" width="200">
+
+
+预览             |  预览
+:-------------------------:|:-------------------------:
+<img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/7.png" width="200">  | <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/8.png" width="200">
+
+
+预览             |  预览
+:-------------------------:|:-------------------------:
+<img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/9.png" width="200"> | <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/10.png" width="200">
 
 
 
