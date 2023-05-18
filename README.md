@@ -1,47 +1,34 @@
 ## 口袋48 IOS 粉丝自制版
 
-### 预览
 
-<div>
-	<h4>首页</h4>
-</div>
-<div>
-	<h4>消息</h4>
-</div>
-<div>
-	<h4>消息详情</h4>
-</div>
-<div>
-	<h4>动态</h4>
-</div>
-<div>
-	<h4>我的</h4>
-</div>
-<p>
-	<h4>直播</h4>
-</p>
-
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/1.jpg" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/2.jpg" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/3.jpg" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/4.jpg" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/5.jpg" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/6.jpg" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/7.jpg" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/8.jpg" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/9.jpg" width="200"></p>
-<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/10.jpg" width="200"></p>
-
-
-
-
-
-### 集成
+### 🧰 集成
 * 登陆页面
 * 首页
 * 消息
 * 房间
+* 我的
 * 直播
+
+
+### 👀 预览
+
+<div>
+<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/1.png" width="200"></p>
+<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/2.png" width="200"></p>
+<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/3.png" width="200"></p>
+<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/4.png" width="200"></p>
+<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/5.png" width="200"></p>
+<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/6.png" width="200"></p>
+<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/7.png" width="200"></p>
+<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/8.png" width="200"></p>
+<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/9.png" width="200"></p>
+<p><img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/10.png" width="200"></p>
+<div>
+
+
+
+
+
 
 
 
