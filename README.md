@@ -18,7 +18,8 @@
 
 ### 👀 预览
 
-
+预览             |  预览
+:-------------------------:|:-------------------------:
 <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/1.png" width="200"> | <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/2.png" width="200">
 
 预览             |  预览
