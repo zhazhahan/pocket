@@ -1,4 +1,4 @@
-## 口袋48 粉丝自制版
+## 口袋48
 
 
 <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/all.png">
