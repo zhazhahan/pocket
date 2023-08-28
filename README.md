@@ -3,6 +3,8 @@
 
 <img src="https://raw.githubusercontent.com/zhazhahan/pocket/main/version3/all.png">
 
+### 🔗 安装链接
+TestFlight 👉  [https://testflight.apple.com/join/I6CR0Kl8](https://testflight.apple.com/join/I6CR0Kl8)
 
 
 ### 🧰 集成
@@ -50,4 +52,4 @@
 
 
 ### 开源说明
-本项目使用Swift UI开发，仅为了改善使用体验而创建，不做盈利用途。有意愿成为开发组成员，可以邮件联系我【vipmadu@qq.com】，谢谢关注。
+本项目使用Swift UI开发，有意愿成为开发组成员，可以邮件联系我【vipmadu@126.com】，谢谢关注。
