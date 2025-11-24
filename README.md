@@ -52,4 +52,4 @@ TestFlight 👉  [https://testflight.apple.com/join/I6CR0Kl8](https://testflight
 
 
 ### 开源说明
-本项目使用Swift UI开发，有意愿成为开发组成员，可以邮件联系我【vipmadu@126.com】，谢谢关注。
+本项目使用Swift UI开发，有意愿成为开发组成员，可以邮件联系我【bebek@126.com】，谢谢关注。
